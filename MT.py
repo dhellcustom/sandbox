@@ -1,6 +1,6 @@
-def Multi_Table(Dan_num):
+def Multi_Table():
     for i in range(1,10):
-        print("%d X %d = %d" % (Dan_num, i, Dan_num*i))
+        for j in range(1,10):
+            print("%d X %d = %d" % (i, j, i*j))
 
-Dan_num = input("몇단을 출력 하시겠습니까? : ")
-Multi_Table(int(Dan_num))
+Multi_Table()
