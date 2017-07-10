@@ -1,5 +1,5 @@
 # SANDBOX
-{tab} > Job Training - Hyoungjoo Kim
+  > Job Training - Hyoungjoo Kim
 
 ## Git
 
