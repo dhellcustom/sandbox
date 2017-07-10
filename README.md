@@ -5,5 +5,5 @@
 
 ## Python 3
 ### 1.Multiplication-Table
-MT1.py - Default output source [deleted]
-MT.py - Default output (function)
+*[Del] MT1.py - Default output source
+*[Add] MT.py - Default output (function)
